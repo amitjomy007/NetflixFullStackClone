@@ -32,7 +32,9 @@ const Home = () => {
               More Info
             </button>
           </div>
+          <TitleCards />
         </div>
+        <div className="gradient"></div>
       </div>
       <TitleCards />
       <div className="more-cards">
